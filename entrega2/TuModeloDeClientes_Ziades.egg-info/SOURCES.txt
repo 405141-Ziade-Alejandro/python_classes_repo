@@ -1,0 +1,8 @@
+setup.py
+TuModeloDeClientes_Ziades.egg-info/PKG-INFO
+TuModeloDeClientes_Ziades.egg-info/SOURCES.txt
+TuModeloDeClientes_Ziades.egg-info/dependency_links.txt
+TuModeloDeClientes_Ziades.egg-info/top_level.txt
+paquete/__init__.py
+paquete/auxiliary_methods.py
+paquete/client_class.py
